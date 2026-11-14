@@ -18,14 +18,18 @@ Firebase Cloud Synchronization: Securely syncs GPS coordinates, timestamps, fami
 
 Displays active and past emergency incidents, confidence scores, GPS coordinates, timestamps, and live dispatch statuses.
 
-[ INSERT SCREENSHOT OF POLICE MODE HERE ]
+[ <img width="425" height="773" alt="Screenshot 2026-11-14 212917" src="https://github.com/user-attachments/assets/949b0287-a410-4662-b2fb-c783e6500eee" /><img width="430" height="771" alt="Screenshot 2026-11-14 213104" src="https://github.com/user-attachments/assets/12426546-20c5-4ac2-aa4f-290adf15e28e" />
+
 *(e.g., Image showing AI Scream Detected with 96.3% confidence and status updates)*
 
 
 2. Victim Mode (Active Emergency & Countdown)
 
 Shows the 2-minute family notification countdown and the safety confirmation button.
+<img width="428" height="771" alt="Screenshot 2026-11-14 213121" src="https://github.com/user-attachments/assets/9143a652-bb62-4653-b0da-ef16af2908a8" />
 
+
+<img width="428" height="779" alt="Screenshot 2026-11-14 212901" src="https://github.com/user-attachments/assets/18302b3d-74d9-44cd-949a-5f91806329c3" />
 
 *(e.g., Image showing 🚨 CRITICAL ALERT ACTIVE! and time remaining)*
 
