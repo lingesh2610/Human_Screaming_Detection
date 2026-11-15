@@ -1,6 +1,8 @@
 🚨 Human Screaming Detection & Real-Time Emergency Alert System
 
 An end-to-end, multi-layered personal security and emergency response system built with Python, PyTorch, Kivy, and Firebase Firestore. This project integrates real-time machine learning audio inference with an automated 2-minute family notification and police dispatch escalation protocol.
+<img width="1194" height="745" alt="Screenshot 2026-11-15 102011" src="https://github.com/user-attachments/assets/28617a92-13c7-4bfe-adf6-43252bb6b61b" />
+
 
 🌟 Key Features
 
